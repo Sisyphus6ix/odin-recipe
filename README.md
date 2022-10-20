@@ -1,6 +1,6 @@
 This project is created for the sole purpose of learning and part of the "The Odin Project" curriculum
 
-For live preview, click https://sisyphus6ix.github.io/odin-recipe/
+For live preview, [here](https://sisyphus6ix.github.io/odin-recipe/)
 
 What i learned
 - HTML and its elements
