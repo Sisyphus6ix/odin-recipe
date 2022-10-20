@@ -1,8 +1,8 @@
-This project is created for the sole purpose of learning and part of the "The Odin Project" curriculum
+This project is created for the sole purpose of learning and part of the "The Odin Project" [curriculum](https://www.theodinproject.com/)
 
-For live preview, [here](https://sisyphus6ix.github.io/odin-recipe/)
+**live preview:** [here](https://sisyphus6ix.github.io/recipe/)
 
-What i learned
+###What i learned?###
 - HTML and its elements
 - Github & git
 - Visual Studio Code
